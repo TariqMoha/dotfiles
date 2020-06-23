@@ -1,0 +1,11 @@
+configuration {
+  /* modi: "combi,drun,run,window,clipboard:greenclip print,emoji,symbol:rofi-unicode,calc,ssh"; */
+  modi: "combi,drun,run,windo,emoji,calc,ssh";
+  font: "Noto San 12";
+  show-icons: true;
+  icon-theme: "Papirus-Dark";
+  combi-modi: "drun,run,window,ssh";
+  scroll-method: 1;
+  sidbar-mode: true;
+  theme: "gruvbox-dark";
+}

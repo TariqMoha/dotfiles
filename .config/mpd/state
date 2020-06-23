@@ -1,0 +1,19 @@
+sw_volume: 100
+audio_device_state:1:alsa for audio soundcard
+audio_device_state:1:my_fifo
+state: pause
+current: 2
+time: 6.431000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Nogomi.com_Asala-Shamekh.mp3
+1:Nogomi.com_Assala-08.Nokta_Baykha.mp3
+2:Nogomi.com_Assala-02.Gabo_Sertoh.mp3
+3:Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/02 - bad guy.flac
+playlist_end

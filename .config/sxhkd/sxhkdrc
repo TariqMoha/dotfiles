@@ -1,0 +1,69 @@
+###########################################################################
+###                            SXHKDRC                                  ###
+###########################################################################
+
+# Launch Terminal
+super + Return
+  termite
+
+# Launch dmenu
+super + r
+  dmenu_run
+
+# Make sxhkd reload config file
+super + Escape
+  pkill -USR1 -x sxhkd && dunstify -r 500 "SXHKD" "Config Reloaded"
+
+# Launch Rofi
+super + space
+  rofi -show combi
+
+# Launch Vim
+super + v
+  $TERMINAL -e $EDITOR
+
+###### BSPWM KEYBINDING ########
+
+# Quit Bspwm
+super + alt + q
+  bspc quit
+
+# Restart bspwm
+super + {alt + r,r; b}
+  bspc wm -r && dunstify -r 500 "BSPWM" "Bspwm Reloaded"
+
+# Alternate Between the tiled and monocle layout
+super + m
+  bspc desktop -1 next
+
+# Close and kill windows
+super + {_,shift + }w
+  bspc node -{c,k}
+
+# Focus/Swap window in direction
+super + {_,shift + }{h,j,k,l}
+  bspc node -{f,s} {west,south,north,east}
+
+# Set the window state
+super + {t,shift + t,s,f}
+  bspc node -t {tiled,psudo_tiles,floating,fullscreen}
+
+# Focus/Send window to desktop
+super + {_,shift + }{1-9,0}
+  bspc {desktop -f,node -d} '^{1-9,0}'
+
+# Send window to desktop and swap to desktop
+super + control + {0-9}
+  bspc node -d {0-9} && bspunhide && bspc desktop -f {0-9}
+
+# Toggle fullscreen on/off
+super + f
+  bspfullscreen
+
+# Toggle floating on/off
+super + o
+  bspc node focused.tiled -t floatingn || bspc node focused.floating - tiled
+
+# Switchind Desktop
+super + {0-9}
+  

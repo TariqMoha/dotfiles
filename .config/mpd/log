@@ -1,0 +1,330 @@
+Jun 13 22:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 13 22:24 : exception: Failed to access /home/tariq/music: No such file or directory
+Jun 13 22:24 : exception: Failed to open '/home/tariq/.config/mpd/state': No such file or directory
+Jun 13 22:24 : exception: inotify_add_watch() has failed: No such file or directory
+Jun 13 22:24 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 14 22:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 14 22:23 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 14 22:24 : client: [0] opened from 127.0.0.1:60742
+Jun 14 22:25 : client: [0] closed
+Jun 15 13:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:22 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 15 13:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:25 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 15 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:28 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 15 13:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:36 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 15 13:36 : client: [0] opened from 127.0.0.1:60546
+Jun 15 13:36 : client: [0] closed
+Jun 15 13:37 : update: added /Nogomi.com_Assala-02.Gabo_Sertoh.mp3
+Jun 15 13:37 : update: added /Nogomi.com_Asala-Shamekh.mp3
+Jun 15 13:37 : update: added /Nogomi.com_Assala-08.Nokta_Baykha.mp3
+Jun 15 13:38 : client: [1] opened from 127.0.0.1:60550
+Jun 15 13:38 : client: [1] closed
+Jun 15 13:40 : client: [2] opened from 127.0.0.1:60552
+Jun 15 13:41 : client: [2] closed
+Jun 15 13:41 : client: [3] opened from 127.0.0.1:60554
+Jun 15 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 15 13:41 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 15 13:42 : update: updating /Nogomi.com_Assala-02.Gabo_Sertoh.mp3
+Jun 15 13:42 : update: updating /Nogomi.com_Asala-Shamekh.mp3
+Jun 15 13:42 : update: updating /Nogomi.com_Assala-08.Nokta_Baykha.mp3
+Jun 15 13:42 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 15 13:42 : client: [3] closed
+Jun 15 13:42 : client: [4] opened from 127.0.0.1:60558
+Jun 15 13:44 : client: [4] closed
+Jun 16 14:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 14:05 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 16 14:05 : client: [0] opened from 127.0.0.1:44276
+Jun 16 14:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 14:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 14:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 16 14:13 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 16 14:16 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 16 14:16 : client: [0] closed
+Jun 16 16:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 16:28 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 16 16:33 : client: [0] opened from 127.0.0.1:43160
+Jun 16 16:40 : client: [1] opened from 127.0.0.1:43162
+Jun 16 16:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 16:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 16 16:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 16 16:40 : client: [1] closed
+Jun 16 16:44 : client: [2] opened from 127.0.0.1:43164
+Jun 16 16:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 16 16:44 : client: [2] closed
+Jun 16 16:44 : client: [3] opened from 127.0.0.1:43166
+Jun 16 16:44 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 16 17:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 16 17:03 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 16 17:16 : client: [3] closed
+Jun 16 17:28 : client: [4] opened from 127.0.0.1:43168
+Jun 16 17:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 16 17:32 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 16 17:36 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 16 17:37 : client: [4] closed
+Jun 16 17:37 : client: [0] closed
+Jun 16 17:39 : client: [5] opened from 127.0.0.1:43198
+Jun 16 17:39 : client: [5] closed
+Jun 16 17:40 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 17 08:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 08:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 08:09 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 17 08:21 : client: [0] opened from 127.0.0.1:50618
+Jun 17 08:22 : client: [0] closed
+Jun 17 08:22 : client: [1] opened from 127.0.0.1:50620
+Jun 17 08:22 : client: [2] opened from 127.0.0.1:50622
+Jun 17 08:23 : client: [1] closed
+Jun 17 08:23 : client: [2] closed
+Jun 17 08:23 : client: [3] opened from 127.0.0.1:50624
+Jun 17 08:24 : client: [3] closed
+Jun 17 08:24 : client: [4] opened from 127.0.0.1:50626
+Jun 17 08:25 : client: [4] closed
+Jun 17 08:25 : client: [5] opened from 127.0.0.1:50628
+Jun 17 08:25 : client: [5] closed
+Jun 17 08:25 : client: [6] opened from 127.0.0.1:50630
+Jun 17 08:25 : client: [6] closed
+Jun 17 08:25 : client: [7] opened from 127.0.0.1:50632
+Jun 17 08:25 : client: [7] closed
+Jun 17 08:25 : client: [8] opened from 127.0.0.1:50634
+Jun 17 08:25 : client: [8] closed
+Jun 17 08:25 : client: [9] opened from 127.0.0.1:50636
+Jun 17 08:25 : client: [9] closed
+Jun 17 08:25 : client: [10] opened from 127.0.0.1:50638
+Jun 17 08:25 : client: [10] closed
+Jun 17 08:25 : client: [11] opened from 127.0.0.1:50640
+Jun 17 08:25 : client: [11] closed
+Jun 17 08:25 : client: [12] opened from 127.0.0.1:50642
+Jun 17 08:25 : client: [12] closed
+Jun 17 08:25 : client: [13] opened from 127.0.0.1:50644
+Jun 17 08:25 : client: [13] closed
+Jun 17 08:25 : client: [14] opened from 127.0.0.1:50646
+Jun 17 08:25 : client: [14] closed
+Jun 17 08:25 : client: [15] opened from 127.0.0.1:50648
+Jun 17 08:25 : client: [16] opened from 127.0.0.1:50650
+Jun 17 08:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 17 08:25 : client: [16] closed
+Jun 17 08:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 17 08:25 : client: [17] opened from 127.0.0.1:50652
+Jun 17 08:25 : client: [17] closed
+Jun 17 08:32 : client: [15] closed
+Jun 17 10:03 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 13:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:15 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 18 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:20 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 18 13:21 : client: [0] opened from 127.0.0.1:50250
+Jun 18 13:23 : client: [0] closed
+Jun 18 13:23 : client: [1] opened from 127.0.0.1:50252
+Jun 18 13:23 : client: [1] closed
+Jun 18 13:23 : client: [2] opened from 127.0.0.1:50254
+Jun 18 13:24 : client: [2] closed
+Jun 18 13:24 : client: [3] opened from 127.0.0.1:50256
+Jun 18 13:44 : client: [4] opened from 127.0.0.1:50258
+Jun 18 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 13:44 : client: [4] closed
+Jun 18 13:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 13:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 13:45 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 13:46 : client: [5] opened from 127.0.0.1:50260
+Jun 18 13:46 : client: [5] closed
+Jun 18 13:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 13:46 : client: [6] opened from 127.0.0.1:50262
+Jun 18 13:46 : client: [6] closed
+Jun 18 13:51 : client: [3] closed
+Jun 18 14:04 : client: [7] opened from 127.0.0.1:50326
+Jun 18 14:08 : client: [7] closed
+Jun 18 14:08 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 16:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 16:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 16:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 16:06 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 18 16:09 : client: [0] opened from 127.0.0.1:60208
+Jun 18 16:37 : client: [0] closed
+Jun 18 16:37 : client: [1] opened from 127.0.0.1:60210
+Jun 18 16:46 : client: [1] closed
+Jun 18 16:46 : client: [2] opened from 127.0.0.1:60212
+Jun 18 17:10 : client: [2] closed
+Jun 18 17:11 : client: [3] opened from 127.0.0.1:60214
+Jun 18 17:19 : client: [3] closed
+Jun 18 17:19 : client: [4] opened from 127.0.0.1:60216
+Jun 18 17:19 : client: [4] closed
+Jun 18 17:19 : client: [5] opened from 127.0.0.1:60218
+Jun 18 17:20 : client: [5] closed
+Jun 18 17:20 : client: [6] opened from 127.0.0.1:60220
+Jun 18 17:45 : client: [6] closed
+Jun 18 17:45 : client: [7] opened from 127.0.0.1:60222
+Jun 18 17:45 : client: [7] closed
+Jun 18 17:45 : client: [8] opened from 127.0.0.1:60224
+Jun 18 17:46 : client: [8] closed
+Jun 18 18:02 : client: [9] opened from 127.0.0.1:60260
+Jun 18 18:15 : client: [9] closed
+Jun 18 18:18 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 21:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 21:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 21:54 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 18 22:28 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 22:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 22:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 22:29 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 18 23:05 : client: [0] opened from 127.0.0.1:54726
+Jun 18 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 18 23:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:06 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 18 23:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:06 : client: [0] closed
+Jun 18 23:06 : client: [1] opened from 127.0.0.1:54728
+Jun 18 23:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:09 : player: played "Nogomi.com_Asala-Shamekh.mp3"
+Jun 18 23:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:13 : client: [1] closed
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/06. In Too Deep.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/12. Stepdad.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/08. Darkness.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/04. Alfred (Interlude).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/18. No Regrets (feat. Don Toliver).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/17. Farewell.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/07. Godzilla (feat. Juice WRLD).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/09. Leaving Heaven (feat. Skylar Grey).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/13. Marsh.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/10. Yah Yah (feat. Royce Da 5'9', Black Thought, Q-Tip, and dEnAuN).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/02. Unaccommodating (feat. Young M.A).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/03. You Gon’ Learn (feat. Royce Da 5'9' and White Gold).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/11. Stepdad (Intro).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/01. Premonition (Intro).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/20. Alfred (Outro).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/19. I Will (feat. Kxng Crooked, Royce Da 5'9', and Joell Ortiz).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/14. Never Love Again.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/16. Lock It Up (feat. Anderson .Paak).mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/15. Little Engine.mp3
+Jun 18 23:13 : update: added Eminem - Music To Be Murdered By (2020) [320KBPS]/05. Those Kinda Nights (feat. Ed Sheeran).mp3
+Jun 18 23:13 : client: [2] opened from 127.0.0.1:54758
+Jun 18 23:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:15 : player: played "Nogomi.com_Asala-Shamekh.mp3"
+Jun 18 23:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 18 23:24 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 18 23:25 : client: [2] closed
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/08 - 8.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/06 - wish you were gay.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/07 - when the party's over.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/02 - bad guy.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/13 - i love you.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/16 - WHEN I WAS OLDER (Muisic inspired by the film ROMA).flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/03 - xanny.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/12 - listen before i go.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/11 - ilomilo.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/04 - you should see me in a crown.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/05 - all the good girls go to hell.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/01 - !!!!!!!.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/14 - goodbye.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/10 - bury a friend.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/15 - come out and play.flac
+Jun 18 23:26 : update: added Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/09 - my strange addiction.flac
+Jun 18 23:26 : client: [3] opened from 127.0.0.1:54768
+Jun 18 23:27 : client: [3] closed
+Jun 18 23:27 : player: played "Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/02 - bad guy.flac"
+Jun 19 15:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 15:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 15:55 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 19 16:03 : client: [0] opened from 127.0.0.1:42244
+Jun 19 16:05 : client: [0] closed
+Jun 19 16:24 : client: [1] opened from 127.0.0.1:42332
+Jun 19 16:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 16:24 : client: [1] closed
+Jun 19 16:24 : client: [2] opened from 127.0.0.1:42334
+Jun 19 16:26 : client: [3] opened from 127.0.0.1:42340
+Jun 19 16:26 : client: [3] closed
+Jun 19 16:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 16:26 : client: [4] opened from 127.0.0.1:42344
+Jun 19 16:26 : client: [4] closed
+Jun 19 16:26 : client: [5] opened from 127.0.0.1:42348
+Jun 19 16:26 : client: [5] closed
+Jun 19 16:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 16:26 : client: [6] opened from 127.0.0.1:42352
+Jun 19 16:26 : client: [6] closed
+Jun 19 16:26 : client: [7] opened from 127.0.0.1:42356
+Jun 19 16:26 : client: [7] closed
+Jun 19 16:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 16:26 : client: [8] opened from 127.0.0.1:42360
+Jun 19 16:26 : client: [8] closed
+Jun 19 16:26 : client: [9] opened from 127.0.0.1:42364
+Jun 19 16:26 : client: [9] closed
+Jun 19 16:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 19 16:32 : client: [2] closed
+Jun 19 16:32 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 20 09:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 09:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 09:26 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 20 09:43 : client: [0] opened from 127.0.0.1:39632
+Jun 20 09:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 20 09:43 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 20 09:44 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 20 09:48 : player: played "Billie Eilish - When We All Fall Asleep, Where Do We Go[JAPAN] (2019) FLAC/02 - bad guy.flac"
+Jun 20 09:48 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 20 09:53 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 20 09:53 : client: [1] opened from 127.0.0.1:39636
+Jun 20 09:53 : client: [1] closed
+Jun 20 12:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 20 15:54 : player: played "Nogomi.com_Assala-08.Nokta_Baykha.mp3"
+Jun 22 09:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 09:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 09:43 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 22 09:52 : client: [0] opened from 127.0.0.1:60588
+Jun 22 09:54 : client: [0] closed
+Jun 22 09:54 : client: [1] opened from 127.0.0.1:60608
+Jun 22 09:54 : client: [1] closed
+Jun 22 09:54 : client: [2] opened from 127.0.0.1:60612
+Jun 22 09:54 : client: [2] closed
+Jun 22 09:54 : client: [3] opened from 127.0.0.1:60618
+Jun 22 09:56 : client: [3] closed
+Jun 22 09:56 : client: [4] opened from 127.0.0.1:60640
+Jun 22 09:57 : client: [4] closed
+Jun 22 09:57 : client: [5] opened from 127.0.0.1:60644
+Jun 22 11:55 : client: [5] closed
+Jun 22 11:55 : client: [6] opened from 127.0.0.1:60750
+Jun 22 12:02 : client: [6] closed
+Jun 22 12:02 : client: [7] opened from 127.0.0.1:60758
+Jun 22 12:03 : client: [8] opened from 127.0.0.1:60764
+Jun 22 12:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 22 12:03 : client: [8] closed
+Jun 22 12:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 22 12:03 : client: [9] opened from 127.0.0.1:60766
+Jun 22 12:03 : client: [9] closed
+Jun 22 12:03 : client: [10] opened from 127.0.0.1:60768
+Jun 22 12:03 : client: [10] closed
+Jun 22 12:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 22 12:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Jun 22 12:03 : client: [11] opened from 127.0.0.1:60772
+Jun 22 12:03 : client: [11] closed
+Jun 22 16:29 : client: [7] closed
+Jun 22 16:29 : client: [12] opened from 127.0.0.1:60790
+Jun 22 16:37 : client: [12] closed
+Jun 22 16:37 : client: [13] opened from 127.0.0.1:60792
+Jun 22 16:47 : client: [13] closed
+Jun 22 17:04 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 23 12:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 12:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 12:33 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 23 12:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 12:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 12:39 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 23 13:26 : player: played "Nogomi.com_Assala-02.Gabo_Sertoh.mp3"
+Jun 23 16:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 23 16:53 : avahi: Service 'Music Player @ tariq-manj' successfully established.
+Jun 23 16:55 : client: [0] opened from 127.0.0.1:42252
+Jun 23 17:02 : client: [0] closed
+Jun 23 17:02 : client: [1] opened from 127.0.0.1:42254
+Jun 23 17:04 : client: [1] closed
+Jun 23 17:04 : client: [2] opened from 127.0.0.1:42256
+Jun 23 17:16 : client: [2] closed

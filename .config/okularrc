@@ -1,0 +1,12 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=472
+State=AAAA/wAAAAD9AAAAAAAAAaYAAAGfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=422
+
+[Recent Files]
+File1[$e]=$HOME/.config/polybar/.md
+Name1[$e]=.md
